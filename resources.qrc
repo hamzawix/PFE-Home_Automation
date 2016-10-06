@@ -1,0 +1,42 @@
+<RCC>
+  <qresource prefix="tool">
+    <file>icons/1455511048_reminder.png</file>
+    <file>icons/1455511062_files-folders-59.png</file>
+    <file>icons/1455511070_calendar-date-month-planner.png</file>
+    <file>icons/1455511079_files-folders-44.png</file>
+    <file>icons/1455511095_office-37.png</file>
+    <file>icons/1455511150_calendar-clock.png</file>
+    <file>icons/1455511158_calendar-alt.png</file>
+  </qresource>
+  <qresource prefix="backgrounds">
+    <file>icons/FreeGreatPicturecom-31479-brig.png</file>
+    <file>icons/1455511079_files-folders-44.png</file>
+  </qresource>
+  <qresource prefix="on_off">
+    <file>icons/lighton.png</file>
+    <file>icons/lightoff.png</file>
+  </qresource>
+  <qresource prefix="camera">
+    <file>icons/1455518183_circle-back-arrow-glyph.png</file>
+    <file>icons/1455518229_circle-next-arrow-disclosure-glyph.png</file>
+    <file>icons/1455518277_up_nav_navigation_menu.png</file>
+    <file>icons/1455518396_down_nav_navigation_menu.png</file>
+    <file>icons/1455518514_add-circle-outline.png</file>
+  </qresource>
+  <qresource prefix="tab">
+    <file>icons/1455511236_Light Bulb On.png</file>
+    <file>icons/1455511258_043.png</file>
+    <file>icons/1455511353_TV.png</file>
+    <file>icons/1455511362_Computer.png</file>
+    <file>icons/1455511383_electro_devices.png</file>
+    <file>icons/1455511421_Instagram.png</file>
+    <file>icons/1455511451_cctv_camera.png</file>
+    <file>icons/1455511606_weather-12.png</file>
+    <file>icons/1455511779_Weather.png</file>
+    <file>icons/1455511798_weather-partlycloudy.png</file>
+    <file>icons/1455511834_Electric_power.png</file>
+    <file>icons/1455511844_Lightning.png</file>
+    <file>icons/1455511855_electronics-13.png</file>
+    <file>icons/1455511882_status.png</file>
+  </qresource>
+</RCC>
